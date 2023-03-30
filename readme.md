@@ -1,6 +1,6 @@
-# Foobar
+# Jorge Sanchez
 
-Foobar is a Python library for dealing with word pluralization.
+Este es un archivo de prueba - Autor: Jorge Sanchez
 
 ## Installation
 
